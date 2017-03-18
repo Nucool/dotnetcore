@@ -1,0 +1,8 @@
+/Users/nucool/dotnetcore/bin/Debug/netcoreapp1.1/dotnetcore.deps.json
+/Users/nucool/dotnetcore/bin/Debug/netcoreapp1.1/dotnetcore.runtimeconfig.json
+/Users/nucool/dotnetcore/bin/Debug/netcoreapp1.1/dotnetcore.runtimeconfig.dev.json
+/Users/nucool/dotnetcore/bin/Debug/netcoreapp1.1/dotnetcore.dll
+/Users/nucool/dotnetcore/bin/Debug/netcoreapp1.1/dotnetcore.pdb
+/Users/nucool/dotnetcore/obj/Debug/netcoreapp1.1/dotnetcore.AssemblyInfo.cs
+/Users/nucool/dotnetcore/obj/Debug/netcoreapp1.1/dotnetcore.dll
+/Users/nucool/dotnetcore/obj/Debug/netcoreapp1.1/dotnetcore.pdb
