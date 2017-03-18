@@ -1,3 +1,14 @@
 ﻿<Properties StartupConfiguration="{E20B06C8-22DF-4BEF-9504-BC77647280F4}|Default">
+  <MonoDevelop.Ide.ItemProperties.dotnetcore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/_ViewStart.cshtml">
+    <Files>
+      <File FileName="Views/_ViewStart.cshtml" Line="3" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
